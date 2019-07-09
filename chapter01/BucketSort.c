@@ -2,7 +2,8 @@
 // Created by cuiwei34 on 2019/7/8.
 //
 #include <stdio.h>
-int main(){
+
+void testBucketSort1(){
 
     int a[11],i,j,t;
 
@@ -23,5 +24,10 @@ int main(){
     getchar();getchar();
     // 用于暂停程序; 以便查看程序输出的程序
     // 也可以用system("pause")
-    return 0;
+
+
 }
+
+//int main(){
+//    return 0;
+//}
