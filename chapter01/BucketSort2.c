@@ -27,7 +27,7 @@ void testBucketSort2(){
 }
 
 int main(){
-    printf(" ddddd");
+
     testBucketSort2();
     return 0;
 }
